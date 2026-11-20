@@ -1,0 +1,8 @@
+Page: K3K1,3
+H.addEdge(0,1);
+H.addEdge(1,2);
+H.addEdge(4,5);
+H.addEdge(3,4);
+H.addEdge(0,2);
+H.addEdge(4,6);
+
